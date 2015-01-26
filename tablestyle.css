@@ -10,3 +10,40 @@
     padding-bottom: 25px;
     border-radius: 7px 7px 0 0;
 }
+.aboutrohan{
+    border: 3px solid black;
+    align-content: center;
+    width:500px;
+    margin: 5px;
+    border-radius: 0 0 7px 7px;
+    
+}
+#Name{
+    background-color:#929D9D;
+    outline: 1px solid #5f6a71;
+    
+}
+#Major{
+    background-color:#D1E0E0;
+    outline: 1px solid #5f6a71;
+    
+}
+#Year{
+    background-color:#929D9D;
+    outline: 1px solid #5f6a71;
+    
+}
+#timestowork{
+    background-color:#D1E0E0;
+    outline: 1px solid #5f6a71;
+    
+}
+#Skills{
+    background-color:#929D9D;
+    outline: 1px solid #5f6a71;
+    
+}
+#aboutme{
+    background-color:#D1E0E0;
+    outline: 1px solid #5f6a71;
+}
